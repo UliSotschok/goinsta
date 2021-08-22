@@ -1,4 +1,3 @@
-module github.com/Davincible/goinsta
+module github.com/UliSotschok/goinsta
 
 go 1.16
-
