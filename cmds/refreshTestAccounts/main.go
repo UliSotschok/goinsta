@@ -10,7 +10,7 @@
 package main
 
 import (
-	"github.com/Davincible/goinsta"
+	"github.com/UliSotschok/goinsta"
 )
 
 func main() {

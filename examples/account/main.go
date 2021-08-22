@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/Davincible/goinsta"
+	"github.com/UliSotschok/goinsta"
 )
 
 var session = flag.String("session", "/tmp/session", "instagram session")
