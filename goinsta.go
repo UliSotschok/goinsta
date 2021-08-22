@@ -471,12 +471,6 @@ func (insta *Instagram) Login() (err error) {
 		return err
 	}
 
-	// post-login sequence
-	err = insta.OpenApp()
-	if err != nil {
-		return err
-	}
-
 	return
 }
 
